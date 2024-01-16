@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/practice3/UnitTests_HW_3-main/libs/junit-platform-commons-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/practice3/UnitTests_HW_3-main/libs/assertj-core-3.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/practice3/UnitTests_HW_3-main/libs/junit-jupiter-api-5.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/practice3/UnitTests_HW_3-main/libs/junit-jupiter-params-5.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
